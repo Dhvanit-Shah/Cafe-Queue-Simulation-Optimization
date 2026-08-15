@@ -18,7 +18,7 @@ By replacing standard First-Come, First-Served (FCFS) queue logic with a Shortes
 
 ## Dashboard Preview
 
-
+* Preview: Cafe Queue Preview.png
 
 ## How to Run
 
