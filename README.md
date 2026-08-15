@@ -18,7 +18,7 @@ By replacing standard First-Come, First-Served (FCFS) queue logic with a Shortes
 
 ## Dashboard Preview
 
-* Preview: https://github.com/Dhvanit-Shah/Cafe-Queue-Simulation-Optimization/tree/main
+* Preview: https://github.com/Dhvanit-Shah/Cafe-Queue-Simulation-Optimization/blob/a1df4b94511fa07bb4b1164b7e5a91143dc86897/Dashboard/Dashboard.pbix
 
 ## How to Run
 
